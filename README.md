@@ -48,7 +48,7 @@ Key characteristics:
 
 # Architecture
 
-![Architecture](figures/architectures.png)
+![Architecture](figures/architectures.PNG)
 
 **Left:** MSNet architecture with three parallel convolutional branches.
 **Right:** LS-Net lightweight architecture with optional early exit.
