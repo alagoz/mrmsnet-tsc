@@ -3,7 +3,7 @@ import torch.nn as nn
 import torch.nn.functional as F
 
 
-class LSNet(nn.Module):
+class LMRMSNet(nn.Module):
     """
     Lightweight Multi-Scale Network (LS-Net)
     """
