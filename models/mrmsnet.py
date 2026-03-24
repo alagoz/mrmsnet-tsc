@@ -18,7 +18,7 @@ class FusionBlock(nn.Module):
         return self.block(x)
 
 
-class MSNet(nn.Module):
+class MRMSNet(nn.Module):
     """
     Multi-Scale Representation Network (MSNet)
     """
