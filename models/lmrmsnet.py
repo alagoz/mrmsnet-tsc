@@ -5,7 +5,7 @@ import torch.nn.functional as F
 
 class LMRMSNet(nn.Module):
     """
-    Lightweight Multi-Scale Network (LMRMS-Net)
+    Lightweight Multi-Representation Multi-Scale Network (LMRMS-Net)
     """
 
     def __init__(self, in_channels, n_classes, hidden=32, exit_threshold=0.8):
