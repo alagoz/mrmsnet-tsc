@@ -20,7 +20,7 @@ class FusionBlock(nn.Module):
 
 class MRMSNet(nn.Module):
     """
-    Multi-Scale Representation Network (MSNet)
+    Multi-Representation Multi-Scale Network (MRMS-Net)
     """
 
     def __init__(self, in_channels, n_classes, hidden=64):
